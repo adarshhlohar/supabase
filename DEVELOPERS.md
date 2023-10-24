@@ -52,7 +52,7 @@ To contribute code to [Supabase](https://supabase.com), you must fork the [Supab
    cd supabase
    ```
 
-### Running turborepo
+### Running yarn workspaces run lint
 
 [Supabase](https://supabase.com) uses [Turborepo](https://turborepo.org/docs) to manage and run this monorepo.
 

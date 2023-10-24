@@ -1,4 +1,4 @@
-import { FC } from 'react'
+import { FunctionComponent } from 'react'
 
 const InlineCodeTag = ({ children }: any) => {
   // If children isn't a string, just return it as is, just in case

@@ -1,4 +1,4 @@
-import { FC } from 'react'
+import { FC } from 'react';
 import { IconSearch } from '~/../../packages/ui'
 // [Terry] — delete this after development
 // just for making it easy to see where things are coming from
